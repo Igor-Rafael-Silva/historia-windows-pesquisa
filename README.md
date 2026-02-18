@@ -2,10 +2,6 @@
 
 Repositório destinado à pesquisa histórica das versões do Microsoft Windows, realizado para a disciplina de [DESEMVOLVIMENTO DE SISTEMA].
 
-## 📜 Linha do Tempo
-
-| Versão | Ano | Principal Novidade | Curiosidade |
-| :--- | :---: | :--- | :--- |
 Aqui está a **linha do tempo** atualizada e completa do seu repositório, incluindo todas as versões intermediárias solicitadas (Windows 2.0, 98, ME, 2000, Vista, 7, 8, 10), mantendo o formato da tabela original. Adicionei as principais novidades de cada versão e uma curiosidade interessante baseada na história real do Windows.
 
 ## 📜 Linha do Tempo
