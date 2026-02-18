@@ -26,6 +26,6 @@ Aqui está a **linha do tempo** atualizada e completa do seu repositório, inclu
 > **Nota:** |A partir do Windows XP (2001), todas as versões consumer e profissionais passaram a usar o kernel NT. O Windows 10 e 11 seguem o modelo de atualizações contínuas (versões como 21H2, 22H2, 23H2, 24H2 etc.), mas o nome principal permanece o mesmo.|
 ---\
 > # **Windows 1.0**
-> [Windows 1.0]([https://img.cdndsgni.com/preview/12291771.jpg](https://upload.wikimedia.org/wikipedia/commons/b/b4/Microsoft_Windows_1.0.png))
+> [Windows 1.0](https://upload.wikimedia.org/wikipedia/commons/b/b4/Microsoft_Windows_1.0.png)
 Desenvolvido por [IGOR RAFAEL SILVA DE SOUZA] - 2026.
 
