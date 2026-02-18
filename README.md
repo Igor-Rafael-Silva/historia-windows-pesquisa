@@ -36,7 +36,9 @@ Aqui está a **linha do tempo** atualizada e completa do seu repositório, inclu
 > # **Windows 98*
 > ![Windows 98](https://lh4.googleusercontent.com/proxy/77EOyeS-5_r3GTAlyfu2ml2o12in1QWizAaO_knCr2KHwkU4W8PEINY5EiAR0hmjK_c2TIDMlOTWgJb5)
 > # **Windows ME*
-> ![Windows ME](
+> ![Windows ME](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/11/windows-me-start-menu-alt-1.jpg?q=70&fit=crop&w=825&dpr=1)
+> # **Windows 2000*
+>![Windows2000](https://s2techtudo.glbimg.com/IbUvBt__hA7xG_t3TWbRbGefQdc=/0x0:601x452/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2023/I/C/47MukFRoeJ0QC32FiAPw/imagem-2023-03-23-192720399.png)
 
 
 
