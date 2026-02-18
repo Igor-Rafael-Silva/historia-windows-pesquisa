@@ -39,9 +39,19 @@ Aqui está a **linha do tempo** atualizada e completa do seu repositório, inclu
 > ![Windows ME](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/11/windows-me-start-menu-alt-1.jpg?q=70&fit=crop&w=825&dpr=1)
 > # **Windows 2000*
 >![Windows2000](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPhbqBtzbPjJ1DJHeyGPp9uqlYW42-aFtkbw&s)
-
-
-
-
+> # **Windows XP*
+>![WindowsXP](https://files.tecnoblog.net/wp-content/uploads/2025/07/windows-xp-fake-1536x906.png)
+> # **Windows Vista*
+>![Windows Vista](https://static.wikia.nocookie.net/osm/images/5/53/ATL_Vista_desktop2.png/revision/latest?cb=20250427052300)
+> # **Windows 7*
+>![Windows 7](https://upload.wikimedia.org/wikipedia/pt/8/89/Ambiente_Windows_7.png)
+> # **Windows 8*
+>![Windows 8](https://museucapixaba.com.br/wp-content/uploads/2023/10/sistema-operacional-Microsoft-Windows-8-2.jpg)
+> # **Windows 8.1*
+>![Windows 8.1](**https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fqll208ps29m71.png**)
+> # **Windows 10*
+>![Windows 10](https://telesintese.com.br/wp-content/uploads/2016/05/windows-10-divulgacao.jpg)
+> # **Windows 11*
+>![Windows 11](https://msftstories.thesourcemediaassets.com/sites/42/2021/06/1.png)
 Desenvolvido por [IGOR RAFAEL SILVA DE SOUZA] - 2026.
 
