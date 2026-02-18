@@ -29,5 +29,17 @@ Aqui está a **linha do tempo** atualizada e completa do seu repositório, inclu
 > ![Windows 1.0](https://upload.wikimedia.org/wikipedia/commons/b/b4/Microsoft_Windows_1.0.png)
 >  # **Windows 2.0*
 > ![Windows 2.0](https://upload.wikimedia.org/wikipedia/pt/c/c9/Windows_2.0.png)
+> # **Windows 3.x*
+> ![Windows 3.x](https://upload.wikimedia.org/wikipedia/pt/thumb/1/15/Windows_3.0_workspace.png/250px-Windows_3.0_workspace.png)
+> # **Windows 95*
+> ![Windows 95](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP8Si5p3XQNn1HQEwZn5r1oFjKmniiSgNtkQ&s)
+
+
+
+
+
+
+
+
 Desenvolvido por [IGOR RAFAEL SILVA DE SOUZA] - 2026.
 
