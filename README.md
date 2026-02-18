@@ -48,7 +48,7 @@ Aqui está a **linha do tempo** atualizada e completa do seu repositório, inclu
 > # **Windows 8*
 >![Windows 8](https://museucapixaba.com.br/wp-content/uploads/2023/10/sistema-operacional-Microsoft-Windows-8-2.jpg)
 > # **Windows 8.1*
->![Windows 8.1](**https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fqll208ps29m71.png**)
+>![Windows 8.1](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fqll208ps29m71.png)
 > # **Windows 10*
 >![Windows 10](https://telesintese.com.br/wp-content/uploads/2016/05/windows-10-divulgacao.jpg)
 > # **Windows 11*
