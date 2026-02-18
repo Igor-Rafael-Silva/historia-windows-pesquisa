@@ -23,7 +23,6 @@ Aqui está a **linha do tempo** atualizada e completa do seu repositório, inclu
 | **Windows 10**      | 2015   | Retorno do Menu Iniciar, Cortana, Microsoft Edge e atualizações contínuas. | Última versão com numeração tradicional; adotou modelo "Windows as a Service". |
 | **Windows 11**      | 2021   | Menu Iniciar centralizado e suporte a apps Android.             | É a primeira versão que exige obrigatoriamente o chip de segurança TPM 2.0. |
 
-> **Nota:** Adicione todas as versões intermediárias (Windows 2.0, 98, ME, 2000, Vista, 7, 8, 10).
-|A partir do Windows XP (2001), todas as versões consumer e profissionais passaram a usar o kernel NT. O Windows 10 e 11 seguem o modelo de atualizações contínuas (versões como 21H2, 22H2, 23H2, 24H2 etc.), mas o nome principal permanece o mesmo.|
+> **Nota:** |A partir do Windows XP (2001), todas as versões consumer e profissionais passaram a usar o kernel NT. O Windows 10 e 11 seguem o modelo de atualizações contínuas (versões como 21H2, 22H2, 23H2, 24H2 etc.), mas o nome principal permanece o mesmo.|
 ---\
 Desenvolvido por [IGOR RAFAEL SILVA DE SOUZA] - 2026.
