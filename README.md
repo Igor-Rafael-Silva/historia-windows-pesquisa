@@ -38,7 +38,7 @@ Aqui está a **linha do tempo** atualizada e completa do seu repositório, inclu
 > # **Windows ME*
 > ![Windows ME](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/11/windows-me-start-menu-alt-1.jpg?q=70&fit=crop&w=825&dpr=1)
 > # **Windows 2000*
->![Windows2000]
+>![Windows2000](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPhbqBtzbPjJ1DJHeyGPp9uqlYW42-aFtkbw&s)
 
 
 
