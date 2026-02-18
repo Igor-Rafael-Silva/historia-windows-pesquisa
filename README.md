@@ -53,5 +53,6 @@ Aqui está a **linha do tempo** atualizada e completa do seu repositório, inclu
 >![Windows 10](https://telesintese.com.br/wp-content/uploads/2016/05/windows-10-divulgacao.jpg)
 > # **Windows 11*
 >![Windows 11](https://msftstories.thesourcemediaassets.com/sites/42/2021/06/1.png)
+
 Desenvolvido por [IGOR RAFAEL SILVA DE SOUZA] - 2026.
 
