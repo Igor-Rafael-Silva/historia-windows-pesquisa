@@ -27,5 +27,7 @@ Aqui está a **linha do tempo** atualizada e completa do seu repositório, inclu
 ---\
 > # **Windows 1.0*
 > ![Windows 1.0](https://upload.wikimedia.org/wikipedia/commons/b/b4/Microsoft_Windows_1.0.png)
+>  # **Windows 2.0*
+> ![Windows 2.0](https://upload.wikimedia.org/wikipedia/pt/c/c9/Windows_2.0.png)
 Desenvolvido por [IGOR RAFAEL SILVA DE SOUZA] - 2026.
 
