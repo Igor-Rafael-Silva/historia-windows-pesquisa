@@ -33,8 +33,10 @@ Aqui está a **linha do tempo** atualizada e completa do seu repositório, inclu
 > ![Windows 3.x](https://upload.wikimedia.org/wikipedia/pt/thumb/1/15/Windows_3.0_workspace.png/250px-Windows_3.0_workspace.png)
 > # **Windows 95*
 > ![Windows 95](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP8Si5p3XQNn1HQEwZn5r1oFjKmniiSgNtkQ&s)
-
-
+> # **Windows 98*
+> ![Windows 98](https://lh4.googleusercontent.com/proxy/77EOyeS-5_r3GTAlyfu2ml2o12in1QWizAaO_knCr2KHwkU4W8PEINY5EiAR0hmjK_c2TIDMlOTWgJb5)
+> # **Windows ME*
+> ![Windows ME](
 
 
 
